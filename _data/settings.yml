@@ -16,7 +16,7 @@ client:
   brand: The Dott Real Estate Group
   brokerage: Revelation Real Estate Group
   address: 2301 S Stearman Dr<br>Chandler, AZ 85286
-  phone: 602-680-0734
+  phone: 480-417-3417
   phone_type:
   phone2:
   phone2_type:
@@ -57,12 +57,12 @@ lender:
 
 socials:
   review_sm_icons: true
-  facebook_url: https://www.facebook.com/TheHonestRealtor/
+  facebook_url: https://www.facebook.com/DottRealEstate/
   linkedin_url:
   gplus_url:
   youtube_url: https://www.youtube.com/channel/UC2shrs2zGgRabw5D2r0zLrA?
-  twitter_url: https://twitter.com/AzHonestRealtor
-  instagram_url: https://www.instagram.com/aaron_dott/
+  twitter_url: https://twitter.com/TheDottGroup
+  instagram_url: https://www.instagram.com/thedottrealestategroup/
   pinterest_url:
   zillow_url: https://www.zillow.com/profile/TheHonestRealtor/
   trulia_url:
