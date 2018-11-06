@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Don’t Lose Out On the Opportunities Our Market Has
-date: 2018-11-05 16:38:46
+title: Don’t Lose Out on the Opportunities Our Market Has
+date: 2018-11-05 16:38:00
 tags:
   - Market Update
 excerpt: >-
@@ -33,6 +33,6 @@ It’s also a great time to sell in our market because:
 
 **1. Inventory is at an all-time low.** This is a good thing, because with supply and demand, this means that your home is that much more attractive to any buyers in the market, especially when it’s priced right and marketed correctly—both of which are our specialties. We can whip up a bidding war for your home, which not only keeps the market healthy, but it also means you’ll get the most money possible for your home.
 
-**2. The holidays are actually a great time to list your home.** Despite the fact that many people seem to think the holidays are a bad time to sell, this time of year can work very well in a seller’s favor. Inventory is low, since people falsely believe they can’t sell right now, you’ll have less competition for other sellers than if you waited until spring.
+**2. The holidays are actually a great time to list your home.** Despite the fact that many people seem to think the holidays are a bad time to sell, this time of year can work very well in a seller’s favor. Inventory is low, and since people falsely believe they can’t sell right now, you’ll have less competition for other sellers than if you waited until spring.
 
 If you’re interested in buying or selling a home, don’t hesitate to reach out to me. I’d be glad to help.
