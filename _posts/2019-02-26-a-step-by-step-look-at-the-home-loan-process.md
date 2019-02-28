@@ -19,17 +19,17 @@ youtube_code: _0G_oEZDCy0
 
 {% include youtube.html %}
 
-Are you buying a house in 2019? Chioki Wade from Loan Depot joined me recently to talk about exactly what you need to know if the answer is “yes.”
+Are you buying a house in 2019? Chioki Wade from loanDepot joined me recently to talk about exactly what you need to know if the answer is “yes.”
 
 **The first and most important step is to get pre-approved.** Knowing your buying power and matching that up with the price point you’re looking at is a crucial step. It will also allow you to shop for homes with confidence because you’ll know what you can afford.
 
 Your credit score, your income, and interest rates all determine how much you’re going to be able to afford. One of the things people like to focus on is the purchase price, but we think it should be more about what your monthly payment is. That monthly payment is mainly determined by the interest rate, as well as the home’s price.&nbsp;
 
-Rates have been fluctuating a lot lately, especially with the government shutdown. Chioko has seen a substantial improvement lately with the dip in the stock market. It has lowered rates from where they were before, but they may go up again soon. Right now with a decent credit score, rates are in the 4% to 5% range, which is very low, historically speaking.
+Rates have been fluctuating a lot lately, especially with the government shutdown. Chioki has seen a substantial improvement lately with the dip in the stock market. It has lowered rates from where they were before, but they may go up again soon. Right now with a decent credit score, rates are in the 4% to 5% range, which is very low, historically speaking.
 
 {% include pullquote.html %}
 
-**In order to get pre-approved, you need at least a 520 credit score.** The higher the score, the more buying power you have and the better rate you can get. Even if you don’t think your credit is up to par, you still have the opportunity to buy a home with certain loan programs.&nbsp;
+**In order to get pre-approved, you need at least a 520 credit score.** The higher the score, the more buying power you have and the better the rate you can get. Even if you don’t think your credit is up to par, you still have the opportunity to buy a home with certain loan programs.&nbsp;
 
 One of the great things that Chioki and his team offers for free to their clients is credit repair services. They will help you get where you need to be in order to qualify for the loan program you want.
 
