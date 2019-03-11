@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Avoid These 5 Common Blunders When Selling Your Home
-date: 2019-03-11 14:14:17
+date: 2019-03-11 14:14:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -9,7 +9,7 @@ excerpt: >-
   impression on a buyer when selling your home.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Aaron+Dotterer/The+Dott+Real+Estate+Group-+Avoid+These+5+Common+Blunders+When+Selling+Your+Home.mp4
-pullquote:
+pullquote: 'The more you depersonalize, the more buyers will be attracted to the home.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -24,6 +24,8 @@ No one wants to sabotage their own home sale. Unfortunately, some sellers unknow
 **1. Bad color schemes.** You and your family might adore the red, neon green, or purple color you painted the kids’ rooms with, but buyers won’t. Before putting your home on the market, cover up those lurid colors with something more neutral, like a tan or lighter gray. You could even make a fun weekend out of it.&nbsp;
 
 **2. Personal taste.** Living here in the Southwest, no one could blame you for having that sort of decor. However, buyers coming from other parts of the country, such as Minnesota or Chicago, to name a few, aren’t going to see it the same way. Pack up some of your Southwestern decor along with personal, family photos. The more you depersonalize, the more buyers will be attracted to the home.&nbsp;
+
+{% include pullquote.html %}
 
 **3. Bad odors.** You’ve probably grown used to the odors that your pet emits, the septic leak outside, or even your neighbor’s compost pile. The problem is these smells won’t evade buyers stepping onto your property for the first time. Some easy, quick fixes to this are getting your carpet professionally cleaned, lighting candles before a showing, and plug-in air fresheners.&nbsp;
 
