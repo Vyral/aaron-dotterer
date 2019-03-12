@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/aaron-dotterer-ss-5-ways-email.jpg
-youtube_code: 0oTrSgp0cfk
+youtube_code: r_o2fjxvPdk
 ---
 
 {% include youtube.html %}
 
-No one wants to sabotage their own home sale. Unfortunately, some sellers unknowingly make mistakes that only hamper their efforts for a successful sale. In today’s message, we’ll consider five common ways this happens.&nbsp;
+No one wants to sabotage their own home sale. Unfortunately, some sellers unknowingly make mistakes that only hamper their efforts for a successful sale. In today’s message, we’ll consider five common ways this happens:
 
 **1. Bad color schemes.** You and your family might adore the red, neon green, or purple color you painted the kids’ rooms with, but buyers won’t. Before putting your home on the market, cover up those lurid colors with something more neutral, like a tan or lighter gray. You could even make a fun weekend out of it.&nbsp;
 
