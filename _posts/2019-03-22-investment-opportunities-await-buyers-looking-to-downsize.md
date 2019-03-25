@@ -27,7 +27,7 @@ A number of homeowners have spent the last 15 years or so growing their family a
 
 Our market is becoming less seller-dominated and is beginning to transition over into a buyer’s market, which works in favor of downsizing buyers.&nbsp;
 
-Let’s turn our attention to interest rates, because it’s good to know where they are currently situated when stepping into the market. Rates are still very favorable when measured against those of the recent past—**with a good credit score, a buyer can lock in a rate between 4.5% and 4.625%. Compared to late 2018 where rates were in the low-5’s, this is incredible.&nbsp;**
+Let’s turn our attention to interest rates, because it’s good to know where they are currently situated when stepping into the market. Rates are still very favorable when measured against those of the recent past—**with a good credit score, a buyer can lock in a rate between 4.5% and 4.625%. Compared to late 2018 where rates were in the low-5% range, this is incredible.&nbsp;**
 
 **Some buyers are using downsizing as a means to purchase an investment property.** These buyers sell their larger homes, collect the equity, and move into a smaller property, such as a condo, so that they can travel and have less house to be responsible for.&nbsp;
 
