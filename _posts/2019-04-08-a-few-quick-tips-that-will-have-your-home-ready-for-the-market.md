@@ -29,7 +29,7 @@ Next, **upgrade the home’s curb appeal.** When people come look at your house,
 
 If and when the time comes to make some renovations, spend your money wisely. In this regard, focus on the heart of your home: your kitchen. Everyone assumes that upgrading their kitchen will be expensive, but that’s not true. Replacing the doorknobs on your cabinetry, for example, can make a world of difference and not cost much at all. I’ve already mentioned painting, but it’s worth repeating here—repainting your cabinets will completely revitalize them.&nbsp;
 
-The next area to focus your upgrades is the bathrooms. As with the kitchen, this is another area where buyers will really notice the upgrades you’ve made, and you’ll want to repaint here as well.&nbsp;
+The next area to focus your upgrades on is the bathroom. As with the kitchen, this is another area where buyers will really notice the upgrades you’ve made, and you’ll want to repaint here as well.&nbsp;
 
 In addition to these tips, **make sure you declutter and make your home look like something buyers can visualize living in.&nbsp;**
 
