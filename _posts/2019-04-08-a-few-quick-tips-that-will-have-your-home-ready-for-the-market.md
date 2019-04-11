@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Few Quick Tips That Will Have Your Home Ready for the Market
-date: 2019-04-08 14:27:48
+date: 2019-04-08 14:27:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,23 +14,23 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/aaron-dotterer-ss-readytosell-email.jpg
-youtube_code: FUEWQysUjbU
+youtube_code: '-VXKlxMY6rA'
 ---
 
 {% include youtube.html %}
 
-If you plan on listing your home soon, here are a few tips that will have it looking show-ready once it hits the market.&nbsp;
+If you plan on listing your home soon, here are a few tips that will have it looking show-ready once it hits the market. 
 
-First, **painting and cleaning are two cheap, simple things you can do yourself to transform your home.** You may not notice dirty baseboards, but buyers will. Also, you may like your home’s teal color, but you’re better off repainting it in a neutral color if you want it to appeal to buyers.&nbsp;
+First, **painting and cleaning are two cheap, simple things you can do yourself to transform your home.** You may not notice dirty baseboards, but buyers will. Also, you may like your home’s teal color, but you’re better off repainting it in a neutral color if you want it to appeal to buyers. 
 
-Next, **upgrade the home’s curb appeal.** When people come look at your house, the first impression they get of it once they step out of their car needs to be amazing.&nbsp;
+Next, **upgrade the home’s curb appeal.** When people come look at your house, the first impression they get of it once they step out of their car needs to be amazing. 
 
 {% include pullquote.html %}
 
-If and when the time comes to make some renovations, spend your money wisely. In this regard, focus on the heart of your home: your kitchen. Everyone assumes that upgrading their kitchen will be expensive, but that’s not true. Replacing the doorknobs on your cabinetry, for example, can make a world of difference and not cost much at all. I’ve already mentioned painting, but it’s worth repeating here—repainting your cabinets will completely revitalize them.&nbsp;
+If and when the time comes to make some renovations, spend your money wisely. In this regard, focus on the heart of your home: your kitchen. Everyone assumes that upgrading their kitchen will be expensive, but that’s not true. Replacing the doorknobs on your cabinetry, for example, can make a world of difference and not cost much at all. I’ve already mentioned painting, but it’s worth repeating here—repainting your cabinets will completely revitalize them. 
 
-The next area to focus your upgrades on is the bathroom. As with the kitchen, this is another area where buyers will really notice the upgrades you’ve made, and you’ll want to repaint here as well.&nbsp;
+The next area to focus your upgrades on is the bathroom. As with the kitchen, this is another area where buyers will really notice the upgrades you’ve made, and you’ll want to repaint here as well. 
 
-In addition to these tips, **make sure you declutter and make your home look like something buyers can visualize living in.&nbsp;**
+In addition to these tips, **make sure you declutter and make your home look like something buyers can visualize living in. **
 
-If you’d like to know more about how to prepare your home for the market or you have any other real estate needs I can take care of, don’t hesitate to reach out to me. I’d be happy to help you.&nbsp;
+If you’d like to know more about how to prepare your home for the market or you have any other real estate needs I can take care of, don’t hesitate to reach out to me. I’d be happy to help you.
