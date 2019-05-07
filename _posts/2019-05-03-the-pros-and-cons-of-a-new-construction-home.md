@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Pros and Cons of a New Construction Home
-date: 2019-05-03 15:31:32
+date: 2019-05-03 15:31:00
 tags:
   - Real Estate
 excerpt: Could a new construction home be the right decision for you? Find out today.
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/newconstruction-email.jpg
-youtube_code: '-KLGol69amI'
+youtube_code: R8upuV7b4PI
 ---
 
 {% include youtube.html %}
@@ -33,10 +33,10 @@ Is a new construction home right for you? There are a few pros and cons you may 
 
 **Pros:**
 
-**1\. It’s brand new.** You get to build it, and you get to pick everything you want and customize it. With a resale home, you’re stuck with whatever the previous owner had done to it.
+**1\. It’s brand-new.** You get to build it, and you get to pick everything you want and customize it. With a resale home, you’re stuck with whatever the previous owner had done to it.
 
 **2\. New homes come with amenities.** In master-planned communities, you’ll often find community pools, playgrounds, country clubs, golf courses, dog parks, running paths, and so on.
 
-**3\. You’ll save money.** If you’re buying a home during the beginning of a new community, you can find a cheaper home. They sell homes for less at the outset and then ramp up the prices as construction goes on. By buying in the beginning, you’ll already have built-in equity at the end.
+**3\. You’ll save money.** If you’re buying a home at the beginning of a new community, you can find a cheaper home. They sell homes for less at the outset and then ramp up the prices as construction goes on. By buying in the beginning, you’ll already have built-in equity at the end.
 
 No matter what you decide to do, you should always have an experienced Realtor at your side. Tell them when you’re looking at model homes so they can help you negotiate. If you have any questions or would like more information, feel free to reach out to me. I look forward to hearing from you soon.
