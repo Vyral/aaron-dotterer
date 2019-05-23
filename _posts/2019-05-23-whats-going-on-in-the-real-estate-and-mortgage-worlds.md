@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Going on in the Real Estate and Mortgage Worlds?
-date: 2019-05-23 20:20:36
+date: 2019-05-23 20:20:00
 tags:
   - Market Update
 excerpt: >-
