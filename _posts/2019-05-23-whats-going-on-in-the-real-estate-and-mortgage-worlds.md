@@ -33,8 +33,8 @@ When we break down the average sale price to the average price per square foot, 
 
 That’s what we’ve got going on in the housing market, but what’s happening with interest rates? According to Chioki, the good news is that while our average home price remains low, there are also great down payment assistance programs available to help buyers get into a home with little to nothing out of pocket.&nbsp;
 
-Interest rates are almost a full percentage point lower than what they were at this time last year. **This is more great news for potential buyers because these lower rates increase their affordability.**
+Interest rates are almost a full percentage point lower than what they were at this time last year and currently are between 4.125% and 4.25%. **This is more great news for potential buyers because these lower rates increase their affordability.**
 
-If you have any questions for us in the meantime about your financing options or what’s going on in the mortgage market, don’t hesitate to reach out to Chioki at [CHWADE@loandepot.com](mailto:CHWADE@loandepot.com) or by phone at (480) 684-4031,&nbsp;
+If you have any questions for us in the meantime about your financing options or what’s going on in the mortgage market, don’t hesitate to reach out to Chioki at [CHWADE@loandepot.com](mailto:CHWADE@loandepot.com) or by phone at (480) 684-4031.
 
-If you have any other real estate-related questions, don’t hesitate to reach out and give us a call or send us an email any time. We look forward to hearing from you soon.
+If you have any other real estate-related questions, don’t hesitate to reach out and give us a call or send us an email anytime. We look forward to hearing from you soon.
