@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When (and Why) Are Home Inspections Necessary?
-date: 2019-06-06 16:08:46
+date: 2019-06-06 16:08:00
 tags:
   - Real Estate
 excerpt: >-
