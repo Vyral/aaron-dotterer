@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Now’s a Great Time to Buy or Sell in the East Valley
-date: 2019-07-23 20:44:35
+date: 2019-07-23 20:44:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
