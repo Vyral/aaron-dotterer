@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: It’s a great time to buy or sell in our East Valley market—here’s why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Aaron+Dotterer/Why+Nows+a+Great+Time+to+Buy+or+Sell+in+the+East+Valley.mp4
 pullquote: >-
   Rates are projected to dip down for another month or so before climbing back
   upward, so the time to take advantage of them is now.
