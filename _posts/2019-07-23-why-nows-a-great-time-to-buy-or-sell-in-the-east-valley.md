@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/jiGhg-kUz04'
 
 We’re in an interesting time here in the East Valley market. **Not only is it a great time to sell, but it’s also a great time to buy.&nbsp;**
 
-There are a couple reasons why it’s a great time to sell. First of all, the number of listings being sold is up compared to this time last year. However, the number of total homes on the market is down. In other words, demand is up and supply is down. Specifically, our month’s supply of homes, or how many months it would take to sell off all remaining inventory if no new homes came on the market, is just 1.06 months. This is incredibly low.&nbsp;
+There are a couple reasons why it’s a great time to sell. First of all, the number of listings being sold is up compared to this time last year. However, the number of total homes on the market is down. In other words, demand is up and supply is down. Specifically, our months' supply of homes, or how many months it would take to sell off all remaining inventory if no new homes came on the market, is just 1.06 months. This is incredibly low.&nbsp;
 
 {% include pullquote.html %}
 
