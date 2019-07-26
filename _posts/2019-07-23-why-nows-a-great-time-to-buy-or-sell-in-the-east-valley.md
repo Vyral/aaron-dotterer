@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/7-23---aaron-dotter----youtube.jpg
-youtube_code: 'https://youtu.be/jiGhg-kUz04'
+youtube_code: TbzScGVXK3I
 ---
 
 {% include youtube.html %}
